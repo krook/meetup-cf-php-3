@@ -15,8 +15,7 @@
   </div>
 
   <h1>
-    Version 2
+    Version 1 
   </h1>
-  
 </body>
 </html>
